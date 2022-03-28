@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+td{
+    font-weight: 500;
+    font-size: 22px;
+    text-align: center;
+    width: 80px;
+    height: 40px;
+    background-color: darkgray;
+}
+td:hover{
+    background-color: cadetblue;
+}
+p{
+    font-weight: 600;
+    font-size: 25px;
+}
+td input {
+    background-color:darkgray;
+    border: none;
+    font-size: 22px;
+    text-align: center;
+}
